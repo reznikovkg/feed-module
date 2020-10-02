@@ -33,7 +33,7 @@
   "dependencies": {
     "async-cache": "^1.1.0",
     "consola": "^2.12.1",
-    "feed-js-extended": "^1.0.1"
+    "feed-js-extended": "latest"
   },
   "devDependencies": {
     "@commitlint/cli": "latest",
