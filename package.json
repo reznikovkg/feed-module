@@ -33,7 +33,7 @@
   "dependencies": {
     "async-cache": "^1.1.0",
     "consola": "^2.12.1",
-    "feed": "github:reznikovkg/feed#custom"
+    "feed-js-extended": "^1.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "latest",
